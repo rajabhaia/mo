@@ -1,9 +1,9 @@
 <h2 align="center">
-    ─「 𝐒ᴛʀᴀɴɢᴇʀ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 𝐌ᴜsɪᴄ 」─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/itzshukla/STRANGER-MUSIC2.0)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+RAJA BHAI](https://github.com/itzshukla/STRANGER-MUSIC2.0)
 
 
 

@@ -2,10 +2,10 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from pymongo import MongoClient
 import re
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 from time import time
 import asyncio
-from SHUKLAMUSIC.utils.extraction import extract_user
+from RAJAmusic67.utils.extraction import extract_user
 
 # Define a dictionary to track the last message timestamp for each user
 user_last_message_time = {}

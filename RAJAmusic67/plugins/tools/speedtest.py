@@ -4,9 +4,9 @@ import speedtest
 from pyrogram import filters
 from pyrogram.types import Message
 
-from SHUKLAMUSIC import app
-from SHUKLAMUSIC.misc import SUDOERS
-from SHUKLAMUSIC.utils.decorators.language import language
+from RAJAmusic67 import app
+from RAJAmusic67.misc import SUDOERS
+from RAJAmusic67.utils.decorators.language import language
 
 
 def testspeed(m, _):

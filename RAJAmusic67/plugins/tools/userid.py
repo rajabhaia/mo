@@ -1,4 +1,4 @@
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 from pyrogram import filters
 
 

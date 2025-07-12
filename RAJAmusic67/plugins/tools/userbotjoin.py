@@ -1,9 +1,9 @@
 import asyncio
-from SHUKLAMUSIC.misc import SUDOERS
-from SHUKLAMUSIC.core.userbot import Userbot
+from RAJAmusic67.misc import SUDOERS
+from RAJAmusic67.core.userbot import Userbot
 from pyrogram import Client, filters
 from pyrogram.errors import UserAlreadyParticipant
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 import asyncio
 import random
 from pyrogram import Client, filters
@@ -14,10 +14,10 @@ from pyrogram.errors import (
     UserAlreadyParticipant,
     UserNotParticipant,
 )
-from SHUKLAMUSIC import app
-from SHUKLAMUSIC.utils.bad_ban import admin_filter
-from SHUKLAMUSIC.utils.decorators.userbotjoin import UserbotWrapper
-from SHUKLAMUSIC.utils.database import get_assistant, is_active_chat
+from RAJAmusic67 import app
+from RAJAmusic67.utils.bad_ban import admin_filter
+from RAJAmusic67.utils.decorators.userbotjoin import UserbotWrapper
+from RAJAmusic67.utils.database import get_assistant, is_active_chat
 links = {}
 
 

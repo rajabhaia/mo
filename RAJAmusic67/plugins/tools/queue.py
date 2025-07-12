@@ -6,12 +6,12 @@ from pyrogram.errors import FloodWait
 from pyrogram.types import CallbackQuery, InputMediaPhoto, Message
 
 import config
-from SHUKLAMUSIC import app
-from SHUKLAMUSIC.misc import db
-from SHUKLAMUSIC.utils import SHUKLABin, get_channeplayCB, seconds_to_min
-from SHUKLAMUSIC.utils.database import get_cmode, is_active_chat, is_music_playing
-from SHUKLAMUSIC.utils.decorators.language import language, languageCB
-from SHUKLAMUSIC.utils.inline import queue_back_markup, queue_markup
+from RAJAmusic67 import app
+from RAJAmusic67.misc import db
+from RAJAmusic67.utils import SHUKLABin, get_channeplayCB, seconds_to_min
+from RAJAmusic67.utils.database import get_cmode, is_active_chat, is_music_playing
+from RAJAmusic67.utils.decorators.language import language, languageCB
+from RAJAmusic67.utils.inline import queue_back_markup, queue_markup
 from config import BANNED_USERS
 
 basic = {}

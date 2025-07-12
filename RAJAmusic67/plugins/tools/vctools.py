@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 from config import OWNER_ID
 # vc on
 @app.on_message(filters.video_chat_started)

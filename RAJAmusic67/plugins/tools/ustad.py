@@ -5,7 +5,7 @@ import os
 import re
 import asyncio
 import time
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
@@ -21,7 +21,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSHDEVS")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/RAJARAJ909")
                 ],
                 [InlineKeyboardButton(
                         "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
@@ -41,10 +41,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSHDEVS")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/RAJARAJ909")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/MeghnaVC_bot")
             ]
             ]
         ),
@@ -61,10 +61,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSHDEVS")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/RAJARAJ909")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/MeghnaVC_bot")
             ]
             ]
         ),

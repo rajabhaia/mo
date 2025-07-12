@@ -2,16 +2,16 @@ from datetime import datetime
 from pyrogram import filters
 from pyrogram.types import Message
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from SHUKLAMUSIC import app
-from SHUKLAMUSIC.core.call import SHUKLA
-from SHUKLAMUSIC.utils import bot_sys_stats
-from SHUKLAMUSIC.utils.decorators.language import language
-from SHUKLAMUSIC.utils.inline import supp_markup
+from RAJAmusic67 import app
+from RAJAmusic67.core.call import SHUKLA
+from RAJAmusic67.utils import bot_sys_stats
+from RAJAmusic67.utils.decorators.language import language
+from RAJAmusic67.utils.inline import supp_markup
 from config import BANNED_USERS, PING_IMG_URL
 import aiohttp
 import asyncio
 from io import BytesIO
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 from pyrogram import filters
 
 
@@ -50,7 +50,7 @@ async def ping_com(client, message: Message, _):
     resp = (datetime.now() - start).microseconds / 1000
     text =  _["ping_2"].format(resp, app.name, UP, RAM, CPU, DISK, pytgping)
     carbon = await make_carbon(text)
-    captions = "**ㅤ  🏓 ᴘɪɴɢ...ᴘᴏɴɢ...ᴘɪɴɢ✨\nㅤ  🎸 sʜɪᴠ...sʜɪᴠᴀɴsʜ...ʙᴀʙʏ💞**"
+    captions = "**ㅤ  🏓 ᴘɪɴɢ...ᴘᴏɴɢ...ᴘɪɴɢ✨\nㅤ  🎸 RAJA BHAI💞**"
     await message.reply_photo((carbon), caption=captions,
     reply_markup=InlineKeyboardMarkup(
             [
@@ -63,10 +63,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/MASTIWITHFRIENDSXD",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/RAJAmusic67",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/SHIVANSH474",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/RAJARAJ909",
             )
         ],
         [

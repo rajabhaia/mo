@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 import os
 import zipfile
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 
 
 def zip_file(file_path, zip_file_path):

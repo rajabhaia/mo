@@ -3,7 +3,7 @@ import httpx
 import os
 import config 
 from config import BOT_USERNAME
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 from pyrogram import Client, filters
 import pyrogram
 from uuid import uuid4

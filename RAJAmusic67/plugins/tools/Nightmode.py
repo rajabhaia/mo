@@ -1,10 +1,10 @@
 import random 
 from pyrogram import filters,Client,enums
-from SHUKLAMUSIC import app
+from RAJAmusic67 import app
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery 
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from pyrogram.types import ChatPermissions
-from SHUKLAMUSIC.mongo.nightmodedb import nightdb,nightmode_on,nightmode_off,get_nightchats 
+from RAJAmusic67.mongo.nightmodedb import nightdb,nightmode_on,nightmode_off,get_nightchats 
 
 
 
